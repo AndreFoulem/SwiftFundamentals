@@ -21,7 +21,7 @@ func getSeason(for month: Months) -> String {
   }
 }
 var myMonth = Months.february
-var result = getSeason(for: myMonth)
+//var result = getSeason(for: myMonth)
 //print("a",result)
 
 
